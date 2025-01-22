@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "15783088973",
+    "firebase_url": "https://onlinefirebase-bd07e-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-bd07e",
+    "storage_bucket": "onlinefirebase-bd07e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15783088973:android:06c8edaa5a78c2b7c6dd04",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_kanyanat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbamsz72JahPHKnQZH-Jaan1bsXYZW3Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
